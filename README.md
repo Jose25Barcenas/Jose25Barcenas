@@ -14,7 +14,7 @@ Soy un desarrollador apasionado por crear aplicaciones web y móviles, aplicando
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,py,flutter" height="60" />
-  <img src="https://skillicons.dev/icons?i=git,github,mysql,postgres,linux" height="60" />
+  <img src="https://skillicons.dev/icons?i=github,mysql" height="60" />
 </div>
 
 ---
