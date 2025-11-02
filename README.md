@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy José Armando Bárcenas González</h1>
+<h1 align="center">👋 Hola, soy José  Bárcenas González</h1>
 <h3 align="center">Frontend Developer | Estudiante de Ingeniería de Sistemas</h3>
 
 ---
@@ -13,7 +13,7 @@ Soy un desarrollador apasionado por crear aplicaciones web y móviles, aplicando
 ### 🧠 Tecnologías que uso frecuentemente
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,py,flutter,nodejs,react,nextjs,tailwind" height="60" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,py,flutter" height="60" />
   <img src="https://skillicons.dev/icons?i=git,github,mysql,postgres,linux" height="60" />
 </div>
 
@@ -48,22 +48,3 @@ Soy un desarrollador apasionado por crear aplicaciones web y móviles, aplicando
 
 ---
 
-### 📊 Estadísticas
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jose-Barza&theme=dark&hide_border=true"/>
-</div>
-
----
-
-### 🎮 Gráfico de contribuciones (Pacman)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU-USUARIO/TU-USUARIO/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU-USUARIO/TU-USUARIO/output/pacman-contribution-graph.svg">
- 
----
-
-<div align="center">
-  <b>¡Gracias por visitar mi perfil! ✨</b>
-</div>
